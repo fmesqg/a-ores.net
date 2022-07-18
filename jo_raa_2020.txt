@@ -1,0 +1,241 @@
+Numero de atos a verificar: 7863
+Transferência financeira.
+verbas: 4200000€
+link: https://jo.azores.gov.pt/#/ato/a93c0578-090f-4f18-9b9e-101344e74493
+Verificados 248 de 7863
+Apoio financeiro.
+verbas: 503799€
+link: https://jo.azores.gov.pt/#/ato/b0016f0b-e900-4419-aa45-799d477e05ae
+Verificados 328 de 7863
+Apoio financeiro - Instituto de Segurança Social dos Açores.
+verbas: 950000€
+link: https://jo.azores.gov.pt/#/ato/a476fdd5-0f56-47c2-8d01-df5ce810470d
+Verificados 340 de 7863
+Concurso público - Aquisição de Serviços de Segurança da Aviação Civil nos Aeródromos das Ilhas do Pico, São Jorge, Graciosa e Corvo.
+verbas: 1600000€
+link: https://jo.azores.gov.pt/#/ato/c31a01a1-10a7-4104-937a-7947cea0d6fc
+Verificados 473 de 7863
+Apoio financeiro - Instituto de Segurança social dos Açores, IPRA.
+verbas: 900000€
+link: https://jo.azores.gov.pt/#/ato/1c87393e-2d79-4b66-b62d-d7953bd52718
+Verificados 838 de 7863
+Apoio financeiro - Instituto de Segurança Social dos Açores.
+verbas: 900000€
+link: https://jo.azores.gov.pt/#/ato/cb22807b-9c24-4a3a-ae0c-2e2092f589a0
+Verificados 867 de 7863
+Toma a decisão de contratar a empreitada de “Consolidação dos taludes da ER 2-2ª, troço Furnas/Ribeira Quente – 2ª fase”. 
+verbas: 3590000€
+link: https://jo.azores.gov.pt/#/ato/3ae7248a-4372-44db-b780-942c4d5d69b9
+Verificados 1011 de 7863
+Apoio financeiro - Instituto Segurança Social dos Açores - IPRA.
+verbas: 650000€
+link: https://jo.azores.gov.pt/#/ato/ab56d806-38f1-4d35-b965-11ab25e2b42b
+Verificados 1298 de 7863
+Transferência financeira - Lotaçor, S.A.
+verbas: 800000€
+link: https://jo.azores.gov.pt/#/ato/5a35ac2e-2aba-4d5b-bbcc-ea69f6821348
+Verificados 1808 de 7863
+Empreitada requalificação de Creche e Jardim de Infância O Carrocel em Angra do Heroísmo.
+verbas: 735000€
+link: https://jo.azores.gov.pt/#/ato/a222e13c-3bab-469c-bb40-61e55f578922
+Verificados 2020 de 7863
+Empreitada “Melhoria da Acessibilidade Furnas / Povoação – 1º Lanço (Melhoria da acessibilidade à Freguesia de Furnas )”.
+verbas: 6500000€
+link: https://jo.azores.gov.pt/#/ato/60169ddc-5fab-45ca-96e3-cf671c68bd29
+Verificados 2068 de 7863
+Empreitada de Construção da Variante à ER 1-1ª em S. Roque, no Concelho de Ponta Delgada.
+verbas: 745000€
+link: https://jo.azores.gov.pt/#/ato/e4c94bff-3589-46aa-9431-32080f8e5ea7
+Verificados 2325 de 7863
+Transferência de verbas - Serviço Regional de Proteção Civil e Bombeiros dos Açores - aquisição de ambulâncias.
+verbas: 1113113€
+link: https://jo.azores.gov.pt/#/ato/bef9e432-95b9-43a1-b06d-48f29a5dcb4f
+Verificados 2437 de 7863
+Atribuição de verbas - Hospital do Divino Esprito Santo - EPE - melhoria na Inovação Terapêutica.
+verbas: 800000€
+link: https://jo.azores.gov.pt/#/ato/b95d5cea-80a4-4fcb-9f4a-dbac23861900
+Verificados 2532 de 7863
+Altera o n.º 1 da Resolução do Conselho do Governo n.º 61/2020, de 13 de março. (Fixa o limite máximo orçamental dos apoios financeiros a conceder no ano 2020, pela Secretaria Regional dos Transportes e Obras Públicas.).
+verbas: 3100000€
+link: https://jo.azores.gov.pt/#/ato/6a48e0e5-2948-4fe4-bf47-38644d3e326a
+Verificados 2759 de 7863
+Apoio financeiro - IMAR – Instituto do Mar.
+verbas: 836999€
+link: https://jo.azores.gov.pt/#/ato/7a3c475b-fac4-438a-bccb-7bea152a2239
+Verificados 2785 de 7863
+Revê o montante da repartição anual de comparticipação financeira.
+verbas: 2530394€
+link: https://jo.azores.gov.pt/#/ato/045afa46-0495-4c2b-9d15-5fdcb7fc9002
+Verificados 2786 de 7863
+Concessão de apoio financeiro à Portos dos Açores, S.A. destinado a  compensar a perda de receita decorrente das medidas extraordinárias tomadas no âmbito da pandemia COVID-19.
+verbas: 750000€
+link: https://jo.azores.gov.pt/#/ato/824991b8-e632-4c86-ba90-0200a73e8250
+Verificados 2811 de 7863
+Atribuição de verbas - Hospital do Divino Esprito Santo de Ponta Delgada - EPE - Melhoria na Inovação Terapêutica.  
+verbas: 800000€
+link: https://jo.azores.gov.pt/#/ato/99e1499c-93e0-4dd3-8a07-8a1369fa87ad
+Verificados 2873 de 7863
+Apoio financeiro - PRORURAL+.
+verbas: 630046€
+link: https://jo.azores.gov.pt/#/ato/adfd70fa-8d14-4938-b202-11db18a2759e
+Verificados 2952 de 7863
+Apoio financeiro.
+verbas: 16605730€
+link: https://jo.azores.gov.pt/#/ato/8a017bc2-b154-4900-840b-75ab8936569a
+Verificados 2985 de 7863
+Apoio financeiro - Instituto Segurança Social dos Açores - IPRA.
+verbas: 675000€
+link: https://jo.azores.gov.pt/#/ato/f516491e-36af-4d3d-b08a-e2e2056ae505
+Verificados 3182 de 7863
+Apoio financeiro - Instituto de Segurança Social dos Açores, IPRA.
+verbas: 615000€
+link: https://jo.azores.gov.pt/#/ato/245b88a5-971a-40ee-a936-5d6d04cd905e
+Verificados 3332 de 7863
+Autoriza a contratação da “Aquisição de serviços para apoio técnico e científico na elaboração de programas de conservação, na recolha de dados, na implementação de tarefas e monitorização dirigidas a áreas, espécies e habitats marinhos integrados na REDE NATURA 2000, no âmbito do projeto LIFE IP AZORES NATURA (LIFE17 IPE/PT/000010)”.
+verbas: 1018224€
+link: https://jo.azores.gov.pt/#/ato/229f3ff0-7f64-45ef-9876-1af7a1c9ebff
+Verificados 3460 de 7863
+Revê o montante da comparticipação financeira da responsabilidade da Região Autónoma dos Açores previsto no n.º 1 da Cláusula 4.ª do contrato-programa celebrado a 15 de julho de 2020 com a SDEA - Sociedade para o Desenvolvimento Empresarial dos Açores, EPER.
+verbas: 3626351€
+link: https://jo.azores.gov.pt/#/ato/0a484b7c-3f1c-4942-8da9-dc3d1ba1d169
+Verificados 3556 de 7863
+Empreitada de construção do Centro Intergeracional da Feteira- 2.ª fase.
+verbas: 860000€
+link: https://jo.azores.gov.pt/#/ato/6dcdf40d-15d6-43fa-bb77-bedb065b8818
+Verificados 3564 de 7863
+Apoio financeiro - Instituto de Segurança Social dos Açores.
+verbas: 820000€
+link: https://jo.azores.gov.pt/#/ato/ef8bbf5f-829c-4c5b-b159-8cb4a6004870
+Verificados 3825 de 7863
+Atribuição de verbas - Hospital do Divino Esprito Santo de Ponta Delgada - EPE - Melhoria na Inovação Terapêutica.
+verbas: 800000€
+link: https://jo.azores.gov.pt/#/ato/bcbf2703-590e-41f5-8a38-42c682f7ed89
+Verificados 3870 de 7863
+Concurso Público para a Adjudicação da Empreitada de Requalificação das Oficinas do Armazém e do Edifício das Operações Portuárias do Porto da Praia da Vitória.
+verbas: 1800000€
+link: https://jo.azores.gov.pt/#/ato/13443044-0486-4a2c-a9ee-ee8a131f3644
+Verificados 4105 de 7863
+Concurso público - Construção do Terminal de Passageiros do Porto de São Roque do Pico.
+verbas: 3500000€
+link: https://jo.azores.gov.pt/#/ato/5ad76a9c-ad57-4de1-bced-66e64d03f840
+Verificados 4315 de 7863
+Apoios financeiros.
+verbas: 1000000€
+link: https://jo.azores.gov.pt/#/ato/ec48fe11-a0c3-42ec-86b3-52f1cbb37642
+Verificados 4536 de 7863
+Retifica a Resolução do Conselho do Governo n.º 209/2020, publicada no Jornal Oficial, I série, n.º 119, de 7 de agosto de 2020.
+verbas: 1018224€
+link: https://jo.azores.gov.pt/#/ato/988ac45a-de0a-4d7d-9c7f-550a247b1421
+Verificados 4660 de 7863
+Apoio financeiro - Instituto de Segurança Social dos Açores.
+verbas: 850000€
+link: https://jo.azores.gov.pt/#/ato/d678a2f6-4c81-4a46-997f-5636282890e0
+Verificados 4672 de 7863
+Apoio financeiro - Instituto de Segurança Social dos Açores.
+verbas: 880000€
+link: https://jo.azores.gov.pt/#/ato/963f070d-761d-4257-909a-6a70250702ff
+Verificados 4724 de 7863
+Transferência financeira - Lotaçor, S.A.
+verbas: 4200000€
+link: https://jo.azores.gov.pt/#/ato/082d1e4f-59c6-4e46-828b-5c18aecb590c
+Verificados 5114 de 7863
+Transferência de verba - LOTAÇOR – Serviço de Lotas dos Açores, S.A.
+verbas: 988500€
+link: https://jo.azores.gov.pt/#/ato/4358f388-230f-455c-aa22-b6e27df130ec
+Verificados 5446 de 7863
+Concurso Público Internacional “Aquisição de contentores de recolha seletiva de resíduos para o concelho de Lagoa – Açores” ´.
+verbas: 508500€
+link: https://jo.azores.gov.pt/#/ato/ad2eb956-9f80-4d4f-8410-dd60bb9ecc21
+Verificados 5500 de 7863
+Autoriza a concessão de apoios financeiros no domínio dos transportes, destinados a projetos de desenvolvimento da frota do tráfego local.
+verbas: 600000€
+link: https://jo.azores.gov.pt/#/ato/0adb3878-e6dc-43fe-94a2-cb6326a0c9ac
+Verificados 5632 de 7863
+Apoio financeiro.
+verbas: 31873398€
+link: https://jo.azores.gov.pt/#/ato/c5fdaeb4-399b-4626-aa88-09ed0e401c05
+Verificados 5715 de 7863
+Autoriza a transferência de verbas para a Portos dos Açores, S.A. para o adicional ao contrato da obra de requalificação do porto das Poças, na sequência do furacão Lorenzo.
+verbas: 558494€
+link: https://jo.azores.gov.pt/#/ato/d2b36bbe-206e-44b3-aafe-bc8f7e9952a5
+Verificados 5798 de 7863
+Toma a decisão de contratar a Prestação de Serviços de Comunicações de Voz e Dados para a Administração Regional dos Açores no triénio 2020-2023. 
+verbas: 3750000€
+link: https://jo.azores.gov.pt/#/ato/ff1b9531-4fa7-4202-9d04-3440b460bcbf
+Verificados 5938 de 7863
+Concurso Público para a Adjudicação da Empreitada de Requalificação das Oficinas do Armazém e do Edifício das Operações Portuárias do Porto da Praia da Vitória.
+verbas: 2500000€
+link: https://jo.azores.gov.pt/#/ato/9043bbf5-36de-4302-a624-08ce3c43bdcd
+Verificados 6100 de 7863
+Transferência financeira LOTAÇOR.
+verbas: 1000000€
+link: https://jo.azores.gov.pt/#/ato/0b59aa03-630c-467b-915b-c1e430a516c1
+Verificados 6300 de 7863
+Concurso público para aquisição de oito empilhadores telescópicos.
+verbas: 3200000€
+link: https://jo.azores.gov.pt/#/ato/a70e9ba8-287b-4a5f-9055-ee4f9747a44e
+Verificados 6419 de 7863
+Apoios financeiros.
+verbas: 16324860€
+link: https://jo.azores.gov.pt/#/ato/dd0738e0-9dc4-448a-9e66-547a5a33fe8d
+Verificados 6439 de 7863
+Autoriza a transferência do montante de 565.136,22€ para a Portos dos Açores, S.A. para as obras de “prolongamento molhe-cais do porto comercial de Velas de São Jorge” e de “aumento do terrapleno do porto de Velas de São Jorge”.
+verbas: 565136€
+link: https://jo.azores.gov.pt/#/ato/6c1a506f-5f3a-4c23-b0bf-13cd0b4823e9
+Verificados 6586 de 7863
+Autoriza a transferência do montante de 1.872.837,67€ para a Portos dos Açores, S.A., destinado à obra de reparação dos danos causados pelo temporal de 27 e 28 de fevereiro de 2017, no porto da Madalena, na ilha do Pico
+verbas: 1872837€
+link: https://jo.azores.gov.pt/#/ato/26f91f06-0c9a-4639-860e-03bbd617e813
+Verificados 6917 de 7863
+Transferência financeira - Lotaçor, S.A.
+verbas: 4200000€
+link: https://jo.azores.gov.pt/#/ato/c7046b34-2683-4a14-a4cc-d7adeb011bb3
+Verificados 7091 de 7863
+Autoriza a transferência de verbas para a Portos dos Açores, S.A. destinadas às obras de dragagem e reposição da operacionalidade do porto das Lajes das Flores, de reparação da cobertura do porto de Pipas, bem como a realização de estudos e projetos relacionados com os portos das Lajes do Pico, de Ponta Delgada e de Vila do Porto, no âmbito dos prejuízos decorrentes do Furacão Lorenzo.
+verbas: 523528€
+link: https://jo.azores.gov.pt/#/ato/730ae48c-350d-4ba2-800d-6820fb06eaa7
+Verificados 7130 de 7863
+Revê o montante da repartição anual de comparticipação financeira.
+verbas: 5158252€
+link: https://jo.azores.gov.pt/#/ato/2f609440-337d-46ad-9358-2b5f19671a21
+Verificados 7175 de 7863
+Empreitada de Consolidação dos taludes da ER n.º 2-2.ª, troço Furnas/Ribeira Quente- 2.ª fase.
+verbas: 4950000€
+link: https://jo.azores.gov.pt/#/ato/8bd25b42-e3cf-40f2-a6f7-572d1b76582a
+Verificados 7177 de 7863
+Empreitada de Requalificação e Modernização do Entreposto Frigorífico das Lajes das Flores, ilha das Flores .
+verbas: 610000€
+link: https://jo.azores.gov.pt/#/ato/432e01f5-1944-451b-8a57-c4b60550001a
+Verificados 7207 de 7863
+Apoio financeiro.
+verbas: 16395143€
+link: https://jo.azores.gov.pt/#/ato/0e6b6774-fc50-4856-b334-e51401bec008
+Verificados 7551 de 7863
+Transferência financeira - LOTAÇOR – Serviço de Lotas dos Açores, S.A..
+verbas: 634000€
+link: https://jo.azores.gov.pt/#/ato/a6f0c49b-9303-4fc5-8671-bc590e213f93
+Verificados 7563 de 7863
+Autoriza a concessão de apoio financeiro destinado a compensar a perda de receitas decorrentes das medidas extraordinárias tomadas pela empresa pública Portos dos Açores, S,A.
+verbas: 750000€
+link: https://jo.azores.gov.pt/#/ato/ef4be829-4a44-46a7-948c-11fc49863758
+Verificados 7589 de 7863
+Autoriza a transferência de verbas para a Portos dos Açores, S.A. destinadas à obra de proteção de emergência ao terrapleno portuário e cais a -5 (ZH) do porto das Lajes das Flores, no âmbito dos prejuízos decorrentes do furacão Lorenzo.
+verbas: 589247€
+link: https://jo.azores.gov.pt/#/ato/bd516075-e20b-45a2-b441-af6d4a3a5b03
+Verificados 7590 de 7863
+Apoio financeiro.
+verbas: 800000€
+link: https://jo.azores.gov.pt/#/ato/f8b767ea-281e-45ba-8bdc-7f39885c2782
+Verificados 7639 de 7863
+Retifica/altera o Anúncio n.º 257/2020, de 22 de julho, publicado no Jornal Oficial, II série, n.º 140, de 22 de julho de 2020.
+verbas: 1820000€
+link: https://jo.azores.gov.pt/#/ato/358ffad3-b2de-4aa5-a5e3-0cb0b195bf1a
+Verificados 7661 de 7863
+Transferência financeira - Lotaçor, S.A.
+verbas: 4200000€
+link: https://jo.azores.gov.pt/#/ato/801da10d-ef0c-4db6-a229-bcd56edb5ecd
+Verificados 7770 de 7863
+Apoio financeiro.
+verbas: 16525287€
+link: https://jo.azores.gov.pt/#/ato/03236254-c476-4a47-be8f-ee325e6ea6fc
+Verificados 7789 de 7863
